@@ -1,0 +1,10 @@
+
+*.info
+*.targets
+*.props
+*.json
+*.cache
+*.editorconfig
+*.xml
+*/bin
+*/obj
