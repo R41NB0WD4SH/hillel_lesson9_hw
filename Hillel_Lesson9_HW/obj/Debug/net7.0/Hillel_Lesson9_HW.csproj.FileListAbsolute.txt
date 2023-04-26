@@ -1,0 +1,15 @@
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/bin/Debug/net7.0/Hillel_Lesson9_HW
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/bin/Debug/net7.0/Hillel_Lesson9_HW.deps.json
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/bin/Debug/net7.0/Hillel_Lesson9_HW.runtimeconfig.json
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/bin/Debug/net7.0/Hillel_Lesson9_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/bin/Debug/net7.0/Hillel_Lesson9_HW.pdb
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.csproj.AssemblyReference.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.AssemblyInfoInputs.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.AssemblyInfo.cs
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.csproj.CoreCompileInputs.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/refint/Hillel_Lesson9_HW.dll
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.pdb
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/Hillel_Lesson9_HW.genruntimeconfig.cache
+/Users/denis.klimovets/Documents/GitHub/hillel_lesson9_hw/Hillel_Lesson9_HW/obj/Debug/net7.0/ref/Hillel_Lesson9_HW.dll
