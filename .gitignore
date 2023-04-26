@@ -6,5 +6,3 @@
 *.cache
 *.editorconfig
 *.xml
-*/bin
-*/obj
