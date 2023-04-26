@@ -5,14 +5,12 @@
         static void Main(string[] args)
         {
             
-            
             Random rnd = new Random();
 
             object lockObject = new object();
 
             bool condition = true;
-            
-            
+
 
             int[] numbers = new int[100000];
 
@@ -26,13 +24,9 @@
             }
             
 
-
-
-
             ManualResetEvent manualResetEvent = new ManualResetEvent(false);
             
             
-
             Thread t1 = new Thread(() =>
             {
                 manualResetEvent.WaitOne();
@@ -146,8 +140,7 @@
 
 
             Console.ReadKey();
-
-
+            
         }
     }
 }
