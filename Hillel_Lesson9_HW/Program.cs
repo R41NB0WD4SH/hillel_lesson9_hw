@@ -1,6 +1,4 @@
-﻿
-
-namespace Hillel_Lesson9_HW
+﻿namespace Hillel_Lesson9_HW
 {
     class Programm
     {
